@@ -1,0 +1,7 @@
+{
+  "name": "ETS FORDANY",
+  "description": "Système de gestion financière et commerciale pour ETS FORDANY - Développé par KGC Technologies",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
